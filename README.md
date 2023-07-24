@@ -2,7 +2,7 @@
 A tool for giving 3d elements to 2d game maps in Unity, with multi-player access.
 
 Introduction:
-My personal project has been a journey of exploration and innovation. I sought to enhance 2D game maps by adding 3D elements. Unsatisfied with existing solutions, I embarked on this endeavor to both challenge myself and provide a missing solution. Along the way, I acquired a plethora of skills, diving deep into image and file manipulation, network communication, UI design, and more.
+This project has been a journey of exploration and innovation. I sought to enhance 2D game maps by adding 3D elements. Unsatisfied with existing solutions, I embarked on this endeavor to both challenge myself and provide a missing solution. Along the way, I acquired a plethora of skills, diving deep into image and file manipulation, network communication, UI design, and more.
 
 Learning the Inner Workings:
 As I delved into the project, I gained a profound understanding of image manipulation through code. I discovered how to break down images into pixels and manipulate their RGBA properties, effectively modifying their positions in 3D space. Furthermore, I mastered the art of slicing files into bits, transmitting them over a network connection to another computer, reassembling them seamlessly, and saving them as files on the target machine.
@@ -22,7 +22,7 @@ When I allowed customizable height-node parameters, I encountered an interesting
 Conclusion:
 This project has been a journey of growth and discovery, as I immersed myself in a myriad of coding challenges and solutions. From image manipulation to networking, UI design, and performance optimization, I have honed my skills and expanded my expertise. I am eager to apply these lessons and further my career as a coding professional, contributing my unique insights and problem-solving abilities to future projects.
 
-If you would like to boot this up in unity, here's a brief breakdown of how to get started:
+Onced running in Unity, here's a brief breakdown of how to get started:
 
 Select New Map
 
