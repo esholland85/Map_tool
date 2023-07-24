@@ -1,10 +1,6 @@
 # Map_tool
 A tool for giving 3d elements to 2d game maps in Unity, with multi-player access.
 
-This is a personal project that I created both as a learning experience and because I was disappointed in the current solutions. As I was working on this I learned a lot about image and file manipulation via code. I learned how the image is broken into pixels, then those pixels are broken into RGBA. I learned how to address their color and position in 3d space. I learned how to break the file into bits, pass those bits through an established network connection to another computer, re=combine them, and save them as a file on that machine. I learned about connecting users to a host and presenting the same view to each of them as live changes are made. I learned about reading and writing save files that contain data of my choosing. I ran into an issue where the number of nodes I was addressing grew too large for my original method of handling it and I needed to reduce the Big O of the operation to make it run in a reasonable time.
-
-I also learned a number of things related to the Unity UI. I learned about lighting and washing out images because of automatic light balancing. I learned about making UI buttons block clicks from the main app. I learned about multiple cameras, switching views, and mapping keyboard controls for doing so. I made my own file navigation system that automatically populates with images and text correlating to the contents of a folder. I used similar techniques to create placeable 3d objects from the contents of an asset folder.
-
 Introduction:
 My personal project has been a journey of exploration and innovation. I sought to enhance 2D game maps by adding 3D elements. Unsatisfied with existing solutions, I embarked on this endeavor to both challenge myself and provide a missing solution. Along the way, I acquired a plethora of skills, diving deep into image and file manipulation, network communication, UI design, and more.
 
